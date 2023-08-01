@@ -1,0 +1,57 @@
+
+/* Class = "NSMenuItem"; title = "Get RandPass"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Get RandPass";
+
+/* Class = "NSTextFieldCell"; title = "Pass:"; ObjectID = "3XA-Bs-XLJ"; */
+"3XA-Bs-XLJ.title" = "密码:";
+
+/* Class = "NSMenuItem"; title = "Quit Get RandPass"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 Get RandPass";
+
+/* Class = "NSMenuItem"; title = "About Get RandPass"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于 Get RandPass";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSTextFieldCell"; title = "10"; ObjectID = "FeO-pM-7zG"; */
+"FeO-pM-7zG.title" = "10";
+
+/* Class = "NSTextFieldCell"; title = "Succes"; ObjectID = "LbH-cY-daX"; */
+"LbH-cY-daX.title" = "复制成功";
+
+/* Class = "NSWindow"; title = "Get RandPass"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Get RandPass";
+
+/* Class = "NSButtonCell"; title = "Get"; ObjectID = "U6N-Gs-ZcH"; */
+"U6N-Gs-ZcH.title" = "生成";
+
+/* Class = "NSButtonCell"; title = "Uppercases(A-Z)"; ObjectID = "UCd-Zc-oJ7"; */
+"UCd-Zc-oJ7.title" = "大写(A-Z)";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "W7Q-my-jpo"; */
+"W7Q-my-jpo.title" = "复制";
+
+/* Class = "NSTextFieldCell"; title = "Length:"; ObjectID = "WO5-Fe-Uvb"; */
+"WO5-Fe-Uvb.title" = "长度:";
+
+/* Class = "NSButtonCell"; title = "Numbers(0-9)"; ObjectID = "WzQ-u3-ia5"; */
+"WzQ-u3-ia5.title" = "数字(0-9)";
+
+/* Class = "NSMenuItem"; title = "Website"; ObjectID = "Ybw-1g-Hcw"; */
+"Ybw-1g-Hcw.title" = "官网";
+
+/* Class = "NSTextFieldCell"; title = "16"; ObjectID = "gDI-ng-Hs2"; */
+"gDI-ng-Hs2.title" = "16";
+
+/* Class = "NSTextFieldCell"; title = "Ignored:"; ObjectID = "i4C-h5-XS0"; */
+"i4C-h5-XS0.title" = "忽略:";
+
+/* Class = "NSButtonCell"; title = "Lowercases(a-z)"; ObjectID = "tSE-yG-bbM"; */
+"tSE-yG-bbM.title" = "小写(a-z)";
+
+/* Class = "NSMenu"; title = "Get RandPass"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Get RandPass";
+
+/* Class = "NSButtonCell"; title = "Symbols(!@#$%&*)"; ObjectID = "vf6-zR-XKC"; */
+"vf6-zR-XKC.title" = "符号(!@#$%&*)";
