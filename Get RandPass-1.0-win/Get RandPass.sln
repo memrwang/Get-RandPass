@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get RandPass", "Get RandPass\Get RandPass.csproj", "{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Debug|x64.ActiveCfg = Debug|x64
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Debug|x64.Build.0 = Debug|x64
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Release|x64.ActiveCfg = Release|x64
+		{176CD1D5-0757-43CA-8A34-2F8F1331C8E0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F1D737-2FE2-4BBB-96C3-BB0924B63076}
+	EndGlobalSection
+EndGlobal

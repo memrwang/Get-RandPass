@@ -1,0 +1,25 @@
+[Menu]
+Setting=Setting
+Language=Language
+Help=Help
+Website=Website
+About=About
+
+[Operation]
+Pass=Pass:
+Copy=Copy
+Get=Get
+Succes=Succes
+
+[Select]
+Uppercases=Uppercases(A-Z)
+Lowercases=Lowercases(a-z)
+Numbers=Numbers(0-9)
+Symbols=Symbols(!@#$%&*)
+Length=Length:
+Ignored=Ignored:
+
+[Window]
+AboutTitle=About
+ErrorTitle=Error
+ErrorInfo=Please select at least one character type
